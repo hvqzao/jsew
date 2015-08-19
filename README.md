@@ -53,4 +53,4 @@ Rewrite me to Node.JS please.
 
 ## License
 
-[the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+[MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE)
